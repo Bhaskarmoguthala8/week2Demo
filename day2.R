@@ -56,4 +56,5 @@ class(k)
 k*5
 m<-FALSE
 class(m)
-
+2==3
+2!=3
