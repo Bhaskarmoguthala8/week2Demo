@@ -47,3 +47,6 @@ date1<-as.Date("2019-03-08")
 date1
 class(date1)
 as.numeric(date1)
+
+date2<-as.POSIXct("2019-03-08 09:00")
+class(date2)
