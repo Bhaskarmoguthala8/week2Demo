@@ -50,3 +50,10 @@ as.numeric(date1)
 
 date2<-as.POSIXct("2019-03-08 09:00")
 class(date2)
+as.numeric(date2)
+k<-TRUE
+class(k)
+k*5
+m<-FALSE
+class(m)
+
